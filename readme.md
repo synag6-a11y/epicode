@@ -1,7 +1,7 @@
 # EpiCode – AI Epidemic Dashboard 
 
 ## Problem
-Predicting disease or epidemic like COVID-19 spread helps in public health planning.
+Predicting disease spread helps in public health planning.
 
 ## Solution
 This project predicts next-day cases using simple logic and provides an interactive dashboard.
